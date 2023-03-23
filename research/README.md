@@ -12,11 +12,16 @@ What is the life expectations for communities based on their type (e.g.anarchy, 
 Are there selected features or features combination of communities, which are playing an important for long-term existance? (survivability analysis)
 Can we estimate the average time for sustainability for each existing community based on their features?
 
+How community is distributed and finding itself in space? 
 
 
 ## Method for mapping community life
-We propose an abstract method for creating and mapping community life addressing its evolution in space and time.  
-Through documenting activities and space of the community life in “Life itself” during Sympoesis #2 we demonstrate how we can use this method as a mapping technique for other communities. 
+
+First method we propose is an abstract **community mapping method**.
+For this we first need to map the space itself. It has been already discussed in Alexander and March & Steadman's in "The geometry of environment" 1971.
+
+Example of mapping of community in “Life itself” during Sympoesis #2 
+we demonstrate how we can use this method as a mapping technique for other communities. 
 
 Using this method we propose here, one can also compare various community experiences at the same place and different periods, and understand deeper possible reasons for discomfort within communities connected to general space-time usage.
 Other questions to be answered here: How to replicate or encapsulate the experience lived by community members to be able to transmit best practices to other community hubs?
