@@ -43,6 +43,8 @@ Other methods of documentation:
 Design of surveys is supported by Penny discussions with Penny Clark 
 with main link here https://docs.google.com/document/d/1uQngQENHNLmDELzmflzm_m0nizCyi7uFqhha1P6aPiY/edit?usp=sharing
 
+Analysis of surveys from different residencies using topic modeling and other methods. 
+
 ### Data of Communities 
 
 Life itself Sympoesis "Contemplative activism" 15 November - 15 December 2021 and "Collective Intelligence" March 2022. 
