@@ -38,6 +38,7 @@ Feel free to suggest and propose changes to the document.
 Other methods of documentation:
 - time diaries 
 - surveys 
+- video/audio recordings
 
 #### Surveys 
 Design of surveys is supported by Penny discussions with Penny Clark 
@@ -55,3 +56,6 @@ Another is https://github.com/life-itself/intentional-communities
 
 This is the beginning of the research on community living and we plan to consider other research questions and research directions here. M.S. and L.T.B are working on this, please feel free to comment and discuss here and in issues.
 
+
+## Contributions 
+Contributions to the repository from the hackathon with Life itself on 3rd June, 2023 
