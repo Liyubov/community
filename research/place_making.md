@@ -3,7 +3,7 @@ In May 2023, Liu, researcher from Life itself Research lab, visited one of the B
 In this blog we describe the context of place making and how it is related to transformations in our cities,.
 
 ## What is place making?
-Place-making is easy to explain, any action, which consists of creating a place, taking action in that space.
+Place-making can be any action, related to creation of a place itself, or activities on that space.
 Place-making initiatives range from the restructuring of segregated communities in the United States, exemplified by Jane Jacobs' efforts in "Making American cities great again," to place-making endeavors involving young people and marginalized communities in Brussels, one of the most cosmopolitan cities in the world. 
 
 
