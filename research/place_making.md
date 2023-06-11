@@ -33,9 +33,10 @@ Place-making project incorporated two stages, which:
 - place holding/understanding: it contains discussions on place sense making, place holding, brainstorming regimes (see Figure below), negotiations with the local people, who own the place, place-deconstruction
 - place-making/acting itself: this stage contains actions, construction itself
 
-The right balance between both of these stages it can create fruitful long-term lively places rooted in culture, 
-and naturally inclusive and integrated.
 
-![plot](https://github.com/cityinteractionlab/participatory_approaches/blob/main/figures/co-production%20workshops.PNG)
+The right balance between both of these stages (facilitation, listening, research and action) any place-making proejct can create fruitful long-term lively places rooted in culture, and naturally inclusive and integrated.
+The documentation of place-making project is often difficult due to the amount of materials produced during the sessions, however with the digitalisation of activities one can document and follow these materials and save them for futuer sessions.
+
+![plot](https://github.com/Liyubov/community/blob/master/research/figures/place%20making.PNG)
 
 Project was organised and coordinated by the Erasmus+ project https://cisr-berlin.org/wakeupcities 
