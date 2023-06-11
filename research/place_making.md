@@ -21,6 +21,13 @@ Berlin was not chosen to be a random place for such activity with citizens.
 Having many open territories some of which just recently were closed (Tacheles being one of them) it still has either a special statuses or being empty (on extended meaning of the word "empty space" see below) 
 after the Second World War Berlin left some undiscovered opportunities for researchers, urbanists, place-makers to come and contribute to the space liveliness. 
 
+## Extended empty space 
+
+What is actually an empty space? Can place be empty? There are always many memories, associated with each space. Especially in space, like Berlin. 
+For digging deeper into it, we interacted with reserachers/audio-walkers who designed space-based walks through Berlin places, where not all spaces were yet taken. 
+One being done by Katja.
+
+## Organisation of place making project
 
 Place-making project incorporated two stages, which:
 - place holding/understanding: it contains discussions on place sense making, place holding, brainstorming regimes (see Figure below), negotiations with the local people, who own the place, place-deconstruction
@@ -29,15 +36,6 @@ Place-making project incorporated two stages, which:
 The right balance between both of these stages it can create fruitful long-term lively places rooted in culture, 
 and naturally inclusive and integrated.
 
-![plot]([https://github.com/cityinteractionlab/participatory_approaches/blob/main/figures/co-production%20workshops.PNG](https://github.com/Liyubov/community/blob/master/research/figures/place%20making.PNG))
-
-
-## Extended empty space 
-
-What is actually an empty space? Can place be empty? There are always many memories, associated with each space. Especially in space, like Berlin. 
-For digging deeper into it, we interacted with reserachers/audio-walkers who designed space-based walks through Berlin places, where not all spaces were yet taken. 
-One being done by Katja.
-
-## Project on place making 
+![plot](https://github.com/cityinteractionlab/participatory_approaches/blob/main/figures/co-production%20workshops.PNG)
 
 Project was organised and coordinated by the Erasmus+ project https://cisr-berlin.org/wakeupcities 
