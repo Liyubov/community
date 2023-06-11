@@ -3,8 +3,8 @@ In May 2023, Liu, researcher from Life itself Research lab, visited one of the B
 In this blog we describe the context of place making and how it is related to ecological transitions and urban transformations.
 
 ## What is place making anyway?
-Place-making is any action, related to creation of a place itself, or activities on that space which aim to make it more habitable by people.
-Examples of place-making initiatives range from the restructuring of segregated communities in the United States, exemplified by Jane Jacobs' efforts in "Making American cities great again," to place-making endeavors involving young people and marginalized communities in Brussels, one of the most cosmopolitan cities in the world. 
+Place-making can be any action, related to creation of a place itself, or activities on that space which aim to make it more habitable by people.
+Examples of place-making initiatives range from the restructuring of segregated communities in the United States, exemplified by Jane Jacobs' efforts in "Making American cities great again" to place-making endeavors involving young people and marginalized communities in Brussels, one of the most cosmopolitan cities in the world. 
 
 ## Place-making and urban transformations
 As French philosopher Lefebvre mentions in his book "La Production de L'Espace" (1974) each form of society 
@@ -15,14 +15,19 @@ At the same time, large cities (with a population beyond 8 million inhabitants) 
 Some of the most actual topics for metropolitan development is that of the form of governance of these big cities, directing different issues such as urban planning, the creation of governmental functionalities. 
 
 # Place making event in Berlin
-Urban Foxes were guiding the place-making event in Berlin, hence creating a possibility for citizens to participate in those activities, such as place-making, projects frequently intertwining with activities aimed at creating a sense of meaning and understanding.
+[Urban Foxes](https://www.urbanfoxes.org/) were coordinating the place-making event in Berlin together with [CISR institute](https://cisr-berlin.org/), creating a possibility for citizens to participate in place-making, projects frequently intertwining with activities aimed at creating a sense of meaning and understanding.
 
-Why place making in Berlin?
-In Berlin we have been working on place making activity with citizens.
-Having many open territories still having either a special statuses or being empty (on extended meaning of the word "empty space" see below) 
-after the Second World War Berlin leaves a lot of opportunities for researchers, urbanists, place-makers to come and contribute to the space liveliness. 
+Berlin was not chosen to be a random place for such activity with citizens.
+Having many open territories some of which just recently were closed (Tacheles being one of them) it still has either a special statuses or being empty (on extended meaning of the word "empty space" see below) 
+after the Second World War Berlin left some undiscovered opportunities for researchers, urbanists, place-makers to come and contribute to the space liveliness. 
 
 
+Place-making project incorporated two stages, which:
+- place holding/understanding: it contains discussions on place sense making, place holding, brainstorming regimes (see Figure below), negotiations with the local people, who own the place, place-deconstruction
+- place-making/acting itself: this stage contains actions, construction itself
+
+The right balance between both of these stages it can create fruitful long-term lively places rooted in culture, 
+and naturally inclusive and integrated.
 
 ![plot]([https://github.com/cityinteractionlab/participatory_approaches/blob/main/figures/co-production%20workshops.PNG](https://github.com/Liyubov/community/blob/master/research/figures/place%20making.PNG))
 
