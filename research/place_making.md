@@ -1,22 +1,21 @@
 # Research on place making in Berlin
 In May 2023, Liu, researcher from Life itself Research lab, visited one of the Berlin place making lab. 
-In this blog we describe the context of place making and how it is related to transformations in our cities,.
+In this blog we describe the context of place making and how it is related to ecological transitions and urban transformations.
 
-## What is place making?
-Place-making can be any action, related to creation of a place itself, or activities on that space.
-Place-making initiatives range from the restructuring of segregated communities in the United States, exemplified by Jane Jacobs' efforts in "Making American cities great again," to place-making endeavors involving young people and marginalized communities in Brussels, one of the most cosmopolitan cities in the world. 
+## What is place making anyway?
+Place-making is any action, related to creation of a place itself, or activities on that space which aim to make it more habitable by people.
+Examples of place-making initiatives range from the restructuring of segregated communities in the United States, exemplified by Jane Jacobs' efforts in "Making American cities great again," to place-making endeavors involving young people and marginalized communities in Brussels, one of the most cosmopolitan cities in the world. 
 
-
+## Place-making and urban transformations
 As French philosopher Lefebvre mentions in his book "La Production de L'Espace" (1974) each form of society 
 produces its own space, which in continually reciprocal process, conditioning the societal systems.
 Place defining society and society defining place are complex processes, interrelating and one through the other. 
 Rarely nowadays one can participate openly in place-making activities, where you as a citizen can participate in taking actions, constructing pieces of complex system, such as cities, especially large cities.
-At the same time, large cities are a new phenomenon in urban history 
-with a population beyond 8 million inhabitants. 
-One of the most relevant topics for metropolitan development is that of the form of governance of these big cities, directing different issues such as urban planning, the creation of governmental functionalities. 
+At the same time, large cities (with a population beyond 8 million inhabitants) are a new phenomenon in urban history. 
+Some of the most actual topics for metropolitan development is that of the form of governance of these big cities, directing different issues such as urban planning, the creation of governmental functionalities. 
 
 # Place making event in Berlin
-Urban Foxes created a possibility for citizens to participate in those activities, such as place-making, projects frequently intertwining with activities aimed at creating a sense of meaning and understanding.
+Urban Foxes were guiding the place-making event in Berlin, hence creating a possibility for citizens to participate in those activities, such as place-making, projects frequently intertwining with activities aimed at creating a sense of meaning and understanding.
 
 Why place making in Berlin?
 In Berlin we have been working on place making activity with citizens.
