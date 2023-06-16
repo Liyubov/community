@@ -30,8 +30,8 @@ One being done by Katja.
 ## Organisation of place making project
 
 Place-making project incorporated two stages, which:
-- place holding/understanding: it contains discussions on place sense making, place holding, brainstorming regimes (see Figure below), negotiations with the local people, who own the place, place-deconstruction
-- place-making/acting itself: this stage contains actions, construction itself
+- **phase 1: place holding/understanding:** it contains discussions on place sense making, place holding, brainstorming regimes (see Figure below), negotiations with the local people, who own the place, place-deconstruction,
+- **phase 2: place-making/acting itself:** this stage contains activities such as construction itself, research and potentially need to be followed by phase 1.
 
 
 The right balance between both of these stages (facilitation, listening, research and action) any place-making proejct can create fruitful long-term lively places rooted in culture, and naturally inclusive and integrated.
