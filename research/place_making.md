@@ -1,4 +1,4 @@
-# Research on place making in Berlin
+# Research on place making 
 In May 2023, Liu, researcher from Life itself Research lab, visited one of the Berlin place making lab. 
 In this blog we describe the context of place making and how it is related to ecological transitions and urban transformations.
 
