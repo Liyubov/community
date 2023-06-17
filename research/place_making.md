@@ -1,4 +1,9 @@
-# Research on place making 
+# Why research on place making?
+
+We live in the world where established democratic and participatory governance and remarkable deprivation, political oppressions coexist. 
+Creation of places, where such big issues, as well as small local plans for development can be discussed, has been an important topic of recent years.
+Bilieving, that social technology and AI can benefit from each other, it makes it important to first follow exisitng social technology methods. Place making activities, and technques of holding those spaces is one example of such activities.
+
 In May 2023, Liu, researcher from Life itself Research lab, visited one of the Berlin place making lab. 
 In this blog we describe the context of place making and how it is related to ecological transitions and urban transformations.
 
