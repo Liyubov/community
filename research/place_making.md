@@ -21,29 +21,42 @@ Some of the most actual topics for metropolitan development is that of the form 
 
 # Place making event in Berlin
 We started small and participated in the local place making event.
-[Urban Foxes](https://www.urbanfoxes.org/) were coordinating the place-making event in Berlin together with [CISR institute](https://cisr-berlin.org/), creating a possibility for citizens to participate in place-making, projects frequently intertwining with activities aimed at creating a sense of meaning and understanding.
+[Urban Foxes](https://www.urbanfoxes.org/) were coordinating the place-making event in Berlin together with [CISR institute](https://cisr-berlin.org/),
+as part of the Erasmus+ project https://cisr-berlin.org/wakeupcities 
+The place making event created a possibility for urbanists, environmentalists, activists and citizens to participate in common event, projects frequently intertwining with activities aimed at creating a sense of meaning and understanding.
 
 Berlin was not chosen to be a random place for such activity with citizens.
 Having many open territories some of which just recently were closed (Tacheles being one of them) it still has either a special statuses or being empty. Here we do refer to the extended meaning of the word "empty space" we eleborate further on. 
 after the Second World War Berlin left some undiscovered opportunities for researchers, urbanists, place-makers to come and contribute to the space liveliness. 
 
+Main activities from the place-making events could be summarized into several groups: 
+- assessing needs of the place (discussions with platz!da association, which was the original contact with the place itself)
+- first individual brain-storming session in the place (when people give their first raw ideas on the place)
+- collective brain-storming session (when people give their ideas on how people can collaboratively create together
+
+
 ## Extended empty space 
 
-What is actually an empty space? Can place be empty? There are always many memories, associated with each space. Especially in space, like Berlin. 
+What is actually an empty space? Can place be empty? Should any place in the city be filled with anything? Can some places have their own agencies?
+There are always many memories, associated with each space. Especially in space, like Berlin. 
 For digging deeper into it, we interacted with reserachers/audio-walkers who designed space-based walks through Berlin places, where not all spaces were yet taken. 
 Some example of such spaces, which are often refered to as being empty were left in [various places](https://www.spiegel.de/international/zeitgeist/a-city-in-flux-documenting-berlin-s-forgotten-spaces-a-719805.html) around Germany.
 
-## Organisation of place making project
+## Main Take-Home Message from the Place-Making Projects
 
-Any place-making project can be abstractly devided into two stages, which are:
-- **phase 1: place holding/understanding:** it contains discussions on place sense making, place holding, brainstorming regimes (see Figure below), negotiations with the local people, who own the place, place-deconstruction,
-- **phase 2: place-making/acting itself:** this stage contains activities such as construction itself, research and potentially need to be followed by phase 1.
+In any place-making project, there are two distinct stages that form the foundation of the process:
 
-Both of those stages can also be referred to a design-techniques of "exploration" vs. "exploitation" phases.
+- The first stage can be named as **"place holding/understanding"** and includes engaging in discussions of sense making about issues and meaning of the place itself, establishment of a connection with the local community who owns the place, fostering brainstorming sessions with various facilitation techniques (refer to the Figure below), and negotiating ideas. It can be associate with the deconstruction of the existing place to gain a deeper understanding of its dynamics.
 
-The right balance between both of these stages (facilitation, listening, research and action) any place-making proejct can create fruitful long-term lively places rooted in culture, and naturally inclusive and integrated.
-The documentation of place-making project is often difficult due to the amount of materials produced during the sessions, however with the digitalisation of activities one can document and follow these materials and save them for futuer sessions.
+
+- The second phase **place-making/acting itself:**  is where the envisioned changes to place come to life. 
+This phase encompasses the actual construction work, as well as the research required to inform the project's implementation. Normally second stage may need to be preceded by the completion of phase 1.
+
+These two stages can be seen as design techniques representing the concepts of "exploration" and "exploitation." The exploration phase (phase 1) involves understanding and learning about the place, while the exploitation phase (phase 2) focuses on taking action and implementing the proposed changes.
+
+Finding the right balance between these two stages is pivotal to the success of any place-making project. It requires a combination of facilitation, active listening, thorough research, and effective action. By creating this equilibrium, place-making projects can create vibrant, long-lasting spaces that are deeply rooted in the local culture, naturally inclusive and integrated.
+The documentation of place-making project is often difficult due to the amount of materials produced during the sessions, however assisting those activities with digital technologies one can document and follow these materials and save them for future place making sessions.
+
 
 ![plot](https://github.com/Liyubov/community/blob/master/research/figures/place%20making.PNG)
 
-Project was organised and coordinated by the Erasmus+ project https://cisr-berlin.org/wakeupcities 
