@@ -1,11 +1,11 @@
 # Why research on place making?
 
-We live in the world where established democratic and participatory governance and remarkable deprivation, political oppressions coexist. 
-Creation of places, where such big issues, as well as small local plans for development can be discussed, has been an important topic of recent years.
-Bilieving, that social technology and AI can benefit from each other, it makes it important to first follow exisitng social technology methods. Place making activities, and technques of holding those spaces is one example of such activities.
+We live in the world where established democratic and participatory governance, societal protests and political oppressions coexist. 
+Creation of places, where such big issues, as well as small local plans for development can be dialogued, has been an important topic of recent years.
+Bilieving, that social technology and AI can benefit from each other, we aim to follow exisitng social technology methods. Place making activities, and techniques of holding those spaces is one example of such activities.
 
-In May 2023, Liu, researcher from Life itself Research lab, visited one of the Berlin place making lab. 
-In this blog we describe the context of place making and how it is related to ecological transitions and urban transformations.
+In May 2023, Liu, researcher from Life itself Research, visited one of the Berlin place making labs. 
+In this blog we describe the context of place making and how it is related to ecological transitions and urban transformations we are aiming for in the 21st century.
 
 ## What is place making anyway?
 Place-making can be any action, related to creation of a place itself, or activities on that space which aim to make it more habitable by people.
@@ -15,29 +15,31 @@ Examples of place-making initiatives range from the restructuring of segregated 
 As French philosopher Lefebvre mentions in his book "La Production de L'Espace" (1974) each form of society 
 produces its own space, which in continually reciprocal process, conditioning the societal systems.
 Place defining society and society defining place are complex processes, interrelating and one through the other. 
-Rarely nowadays one can participate openly in place-making activities, where you as a citizen can participate in taking actions, constructing pieces of complex system, such as cities, especially large cities.
+Rarely nowadays one can participate openly in place-making activities, where each person as a citizen can participate in observing, or taking actions, constructing pieces of complex system, such as cities, especially large cities.
 At the same time, large cities (with a population beyond 8 million inhabitants) are a new phenomenon in urban history. 
 Some of the most actual topics for metropolitan development is that of the form of governance of these big cities, directing different issues such as urban planning, the creation of governmental functionalities. 
 
 # Place making event in Berlin
+We started small and participated in the local place making event.
 [Urban Foxes](https://www.urbanfoxes.org/) were coordinating the place-making event in Berlin together with [CISR institute](https://cisr-berlin.org/), creating a possibility for citizens to participate in place-making, projects frequently intertwining with activities aimed at creating a sense of meaning and understanding.
 
 Berlin was not chosen to be a random place for such activity with citizens.
-Having many open territories some of which just recently were closed (Tacheles being one of them) it still has either a special statuses or being empty (on extended meaning of the word "empty space" see below) 
+Having many open territories some of which just recently were closed (Tacheles being one of them) it still has either a special statuses or being empty. Here we do refer to the extended meaning of the word "empty space" we eleborate further on. 
 after the Second World War Berlin left some undiscovered opportunities for researchers, urbanists, place-makers to come and contribute to the space liveliness. 
 
 ## Extended empty space 
 
 What is actually an empty space? Can place be empty? There are always many memories, associated with each space. Especially in space, like Berlin. 
 For digging deeper into it, we interacted with reserachers/audio-walkers who designed space-based walks through Berlin places, where not all spaces were yet taken. 
-One being done by Katja.
+Some example of such spaces, which are often refered to as being empty were left in [various places](https://www.spiegel.de/international/zeitgeist/a-city-in-flux-documenting-berlin-s-forgotten-spaces-a-719805.html) around Germany.
 
 ## Organisation of place making project
 
-Place-making project incorporated two stages, which:
+Any place-making project can be abstractly devided into two stages, which are:
 - **phase 1: place holding/understanding:** it contains discussions on place sense making, place holding, brainstorming regimes (see Figure below), negotiations with the local people, who own the place, place-deconstruction,
 - **phase 2: place-making/acting itself:** this stage contains activities such as construction itself, research and potentially need to be followed by phase 1.
 
+Both of those stages can also be referred to a design-techniques of "exploration" vs. "exploitation" phases.
 
 The right balance between both of these stages (facilitation, listening, research and action) any place-making proejct can create fruitful long-term lively places rooted in culture, and naturally inclusive and integrated.
 The documentation of place-making project is often difficult due to the amount of materials produced during the sessions, however with the digitalisation of activities one can document and follow these materials and save them for futuer sessions.
